@@ -1,12 +1,11 @@
-# Narula Institute of Technology
-## [Name: Abhishek Das, Roll: 430118010098]
-## Computer Science and Engineering
+# [Narula Institute of Technology]
+# [Name: Abhishek Das, Roll: 430118010098] Computer Science and Engineering
 
-### College Project: Coffee Vending Machine 
-### Programing Language:  C
-### Small Supports: google 
-### IDE: DevC++
-### Description: This project is written in C language and it’s a console application for Windows platform. To run it you have to go with DevC++
+### * College Project: Coffee Vending Machine 
+### * Programing Language:  C
+### * Small Supports: google 
+### * IDE: DevC++
+### * Description: This project is written in C language and it’s a console application for Windows platform. To run it you have to go with DevC++
 
 ### Features: This machine will ask you to select your suitable coffee and the amount of quantity. And also, you can purchase multiple kind of coffee at a single time. And in the end total bill will show with the distributed and Total price . 
  
