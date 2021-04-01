@@ -7,11 +7,11 @@
 ### * IDE: DevC++
 ### * Description: This project is written in C language and it’s a console application for Windows platform. To run it you have to go with DevC++
 
-### Features: This machine will ask you to select your suitable coffee and the amount of quantity. And also, you can purchase multiple kind of coffee at a single time. And in the end total bill will show with the distributed and Total price . 
+### *Features: This machine will ask you to select your suitable coffee and the amount of quantity. And also, you can purchase multiple kind of coffee at a single time. And in the end total bill will show with the distributed and Total price . 
  
- **UI**
+
  >>
-  *****COFFEE MECHINE******
+  *** ** COFFEE VENDING MECHINE ** ****
 
          :: CHOSE YOUR COFFEE :: (press ENTER to confirm / to chose use UP and DOWN arrow)
 
@@ -34,4 +34,4 @@
         ----------------------------------
             TOTAL:  85.00
 
-[GitHub](https://github.com/avioXD*/)
+[GitHub Profile](https://github.com/avioXD*/)
